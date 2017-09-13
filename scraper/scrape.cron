@@ -1,1 +1,0 @@
-* * * * * python /app/scrape.py $INFLUX_USER $INFLUX_PASSWORD
